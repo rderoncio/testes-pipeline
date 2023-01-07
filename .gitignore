@@ -1,0 +1,6 @@
+# DEBUGER VSCODE
+/.vscode
+
+# Binários
+/bin
+/obj
